@@ -1,0 +1,3 @@
+[submodule "brb/salticidae"]
+	path = brb/salticidae
+	url = https://github.com/Determinant/salticidae
