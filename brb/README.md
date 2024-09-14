@@ -1,4 +1,4 @@
-# BRB implementation
+# Decentralized sequencer setup
 
 Dependencies
 ----------
